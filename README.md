@@ -1,2 +1,2 @@
-# AppiumPython
-Tests mobile in Python
+# Appium
+Tests mobile 
